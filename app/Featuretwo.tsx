@@ -6,7 +6,7 @@ import { BsCheck } from "react-icons/bs";
 function Featuretwo() {
   return (
     <section className='mt-4 flex flex-col md:flex-row lg:px-60 md:mt-24'>
-        <div className='flex flex-col md:w-1/2'>
+        <div className='flex flex-col text-center md:text-left md:w-1/2'>
             <h1 className='md:mt-24 text-lg md:text-3xl font-Playfair font-semibold'>
                 What makes me your <span className='text-orange-300 font-bold'>Ideal Agent</span></h1>
 
