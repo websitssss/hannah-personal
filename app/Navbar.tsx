@@ -15,6 +15,7 @@ function Navbar() {
                 <div className='hidden lg:flex space-x-10 pl-[200px]'>
                     <Link href="/" className="text-sm  font-bold text-white hover:text-orange-300">Home</Link>
                     <Link href="/About/" className="text-sm  font-bold text-white hover:text-orange-300">About</Link>
+                    <Link href="/Flipbook/" className="text-sm  font-bold text-white hover:text-orange-300">Flipbook</Link>
                     <Link href="/Contact/" className="text-sm font-bold text-white hover:text-orange-300">Contact</Link>
                 </div>
             </div>
